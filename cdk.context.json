@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "account": "YourAccountId",
+    "region": "eu-central-1"
+  },
+  "test": {
+    "account": "YourAccountId",
+    "region": "us-east-1"
+  },
+  "prod": {
+    "account": "YourAccountId",
+    "region": "eu-west-1"
+  }
+}
